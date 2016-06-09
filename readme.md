@@ -3,3 +3,5 @@
 ## Introduction
 
 In nutshell JServer is webserver like any other webserver including apache httpd and nginx.
+
+## Configuration
